@@ -3,4 +3,4 @@
 def test():
     print("Hopefully this file works")
 
-test(): 
+test()
